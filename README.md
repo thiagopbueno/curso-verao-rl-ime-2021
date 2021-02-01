@@ -22,7 +22,7 @@ source bin/activate        # ativar ambiente virtual
 Todos os exercícios práticos e experimentos computacionais serão realizados dentro do [Jupyter Lab](https://jupyter.org/). Para instalar o pacote `jupyterlab` basta utilizar o `pip`:
 
 ```bash
-pip install jupyterlab
+pip install jupyterlab ipywidgets
 ```
 
 ### Outros pacotes e bibliotecas
